@@ -35,8 +35,12 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 # Observation and Calculation
 <img width="442" height="136" alt="image" src="https://github.com/user-attachments/assets/3d0b54ac-b870-412c-9344-ef34bda44f69" />
 
+<img width="1461" height="1404" alt="7a879572-b840-4360-8798-16cb0e636f51" src="https://github.com/user-attachments/assets/eff92c30-3fc9-4e6e-8fc5-a61651c968a6" />
+
+
 
 ---
 
 # Result
+Hence, the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
